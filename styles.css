@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+.box{
+	margin: 90px;
+	background-color: grey;
+	width: 400px;
+	height: 400px;
+}
+img{
+	padding: 30px;
+	width:50px;
+	height:100px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.price{
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center
+}
+.p1{
+	font-size: 25px;
+	text-align: center;
+	 word-wrap: break-word;
+	margin-left: 100px;
+  margin-right: 100px;
+}
+.btn{
+	padding: 25px;
+	margin-left: 116px;
+}
+#button{
+	background-color: red;
+}
